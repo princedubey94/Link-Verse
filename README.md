@@ -26,11 +26,17 @@ Welcome to **LinkVerse**, a complete social media platform where you can connect
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/ef425393-c1fb-463e-ac9f-4ed1078f4524)
+
 ![image](https://github.com/user-attachments/assets/f45ceb5d-bc61-4b56-91b1-02d7b412e3d2)
+
 ![image](https://github.com/user-attachments/assets/2fe7748f-3dc8-4022-9059-b256b4e0c312)
+
 ![image](https://github.com/user-attachments/assets/784e37b1-c14a-4df0-8daa-48d47de51b2d)
+
 ![image](https://github.com/user-attachments/assets/e5d310a8-b6c1-4db0-99f4-1e0e30bc0806)
+
 ![image](https://github.com/user-attachments/assets/c2d4bbd0-d350-4e0e-9c8e-55fd066d6e12)
+
 ![image](https://github.com/user-attachments/assets/e7040a56-e502-4d38-a56e-84674dbe234f)
 
 

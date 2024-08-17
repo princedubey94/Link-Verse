@@ -31,7 +31,7 @@ Welcome to **LinkVerse**, a complete social media platform where you can connect
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/LinkVerse.git
+    git clone https://github.com/princedubey94/Link-Verse.git
     ```
 2. **Navigate to the project directory**:
     ```bash

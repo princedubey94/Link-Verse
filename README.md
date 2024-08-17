@@ -25,7 +25,8 @@ Welcome to **LinkVerse**, a complete social media platform where you can connect
 
 ## 📸 Screenshots
 
-!LinkVerse Screenshot
+![image](https://github.com/user-attachments/assets/ef425393-c1fb-463e-ac9f-4ed1078f4524)
+
 
 ## 🛠️ Installation
 

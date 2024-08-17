@@ -3,7 +3,7 @@ Welcome to LinkVerse, a full-featured social media platform where you can connec
 
 ## Getting Started
 
-Some Features:
+#Some Features:
 
 ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind
 🔐 Authentication with JSONWEBTOKENS (JWT)
@@ -20,7 +20,7 @@ Some Features:
 🔔 Send Notifications
 🌐 Deployment
 ⏳ And much more!
-Setup .env file
+#Setup .env file
 MONGO_URI=...
 PORT=...
 JWT_SECRET=...
@@ -28,7 +28,7 @@ NODE_ENV=...
 CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
-Build the app
+#Build the app
 npm run build
-Start the app
+#Start the app
 npm start

@@ -1,9 +1,9 @@
 # Project Title
 Welcome to LinkVerse, a full-featured social media platform where you can connect, share, and engage with your community. Built with modern technologies, LinkVerse offers a seamless and interactive user experience. 🚀
 
-## Getting Started
+## Getting Started 
 
-#Some Features:
+##Some Features:
 
 ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind
 🔐 Authentication with JSONWEBTOKENS (JWT)
@@ -29,6 +29,6 @@ CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 #Build the app
-npm run build
+`npm run build`
 #Start the app
-npm start
+`npm start`
